@@ -2,6 +2,7 @@
 
 **Disclaimer**: We are aware that the use of indigenous totems in this project may involve cultural and intellectual property rights, including copyright and traditional knowledge protections. Some totems may be subject to copyright laws, while others may represent cultural heritage that is collectively owned by indigenous communities. Throughout the development of this project, we have made efforts to respect these rights and recommend seeking proper authorization and engaging with relevant indigenous groups or cultural organizations to ensure lawful and respectful use of these symbols. This project aims to promote cultural awareness and preservation while honoring the rights of indigenous peoples.
 
+## Introduction
 This project uses AI to recognize and classify totems from the Tawu (達悟族) and Taiya (泰雅族) indigenous tribes of Taiwan. The goal of this project is to help preserve and promote Taiwanese indigenous cultures by developing a machine learning model capable of identifying these totems.
 
 ## Features
